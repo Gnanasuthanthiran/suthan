@@ -42,7 +42,7 @@ public class Vovels{
 				
 		}
 		
-	System.out.println(v_count +" Vovels : "+vowels);
+	System.out.println(v_count +" Vowels : "+vowels);
 	System.out.println(c_count+" consonent : "+consonent);
 	
 	}
