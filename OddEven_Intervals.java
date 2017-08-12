@@ -9,9 +9,9 @@ public class OddEven_Intervals{
 		int odd=0,even=0;
 	
 		int i,j;
-		System.out.printf("Enter Starting point of number :  ");
+		System.out.printf("Enter Starting point :  ");
 		start=in.nextInt();
-			System.out.printf("Enter Starting End of number : ");
+			System.out.printf("Enter Ending point : ");
 		end=in.nextInt();
 		
 	
